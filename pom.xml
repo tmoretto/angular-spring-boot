@@ -42,6 +42,7 @@
 	</dependencies>
 
 	<build>
+	
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
@@ -49,5 +50,6 @@
 			</plugin>
 		</plugins>
 	</build>
+
 
 </project>
